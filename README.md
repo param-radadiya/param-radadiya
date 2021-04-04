@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/param_radadiya" target="blank"><img src="https://img.shields.io/twitter/follow/param_radadiya?logo=twitter&style=for-the-badge" alt="param_radadiya" /></a> </p>
 
-- 🔭 I’m currently working on **My little Strtup.**
+- 🔭 I’m currently working on **My Strtup Idea💡**
 
 - 🌱 I’m currently learning **Dart/Flutter**
 
