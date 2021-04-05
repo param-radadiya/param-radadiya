@@ -1,7 +1,8 @@
 <h1 align="center">Hi , I'm Param Radadiya</h1>
 <h3 align="center">Always looking for new opportunity to make a change.</h3>
 
-<p align="left"> <a href="https://twitter.com/param_radadiya" target="blank"><img src="https://img.shields.io/twitter/follow/param_radadiya?logo=twitter&style=for-the-badge" alt="param_radadiya" /></a> </p>
+ <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+
 
 - 🔭 I’m currently working on **My Strtup Idea💡**
 
