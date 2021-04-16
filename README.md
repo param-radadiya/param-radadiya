@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio [https://paramradadiya.wixsite.com/portfolio](https://paramradadiya.wixsite.com/portfolio)
 
-- 💬 Ask me about **C, C++, JAVA, DS-Algo**
+- 💬 Ask me about **C, C++, JAVA, Dart, DS-Algo, Android**
 
 - 📫 How to reach me **paramradadiya3@gmail.com**
 
