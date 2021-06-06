@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **My Strtup Idea💡**
 
-- 🌱 I’m currently learning **Dart/Flutter**
+- 🌱 I’m currently learning **Android Kotlin**
 
 - 🤝 Anytime ready to help, **who needs.**
 
 - 👨‍💻 My Portfolio [https://paramradadiya.wixsite.com/portfolio](https://paramradadiya.wixsite.com/portfolio)
 
-- 💬 Ask me about **C, C++, JAVA, Dart, DS-Algo, Android**
+- 💬 Ask me about **C, C++, JAVA, Dart, DS-Algo, Kotlin, Android**
 
 - 📫 How to reach me **paramradadiya3@gmail.com**
 
