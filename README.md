@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Strtup Idea💡**
 
-- 🌱 I’m currently learning **Android Kotlin**
+- 🌱 I’m currently learning **AR Development**
 
 - 🤝 Anytime ready to help, **who needs.**
 
